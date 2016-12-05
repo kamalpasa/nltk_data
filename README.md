@@ -1,4 +1,4 @@
 nltk_data
 =========
 
-NLTK Data lives in the gh-pages branch of this repository.
+Bangla and English language based text analysis is done in the nltk. Source codes are published on the learning basis. 
